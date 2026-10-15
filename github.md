@@ -1,1 +1,1 @@
-
+Github es un portal creado para alojar el código de las aplicaciones de cualquier desarrollador, y que fue comprada por Microsoft en junio del 2018. Utiliza el sistema de control de versiones Git. Además de permitirte mirar el código y descargarte las diferentes versiones de una aplicación, la plataforma también hace las veces de red social, conectando desarrolladores con usuarios para que estos puedan colaborar mejorando la aplicación de forma conjunta.
