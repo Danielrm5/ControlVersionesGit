@@ -12,4 +12,4 @@ Más allá de alojar código, GitHub se ha convertido en una suite completa para
 * **GitHub Pages:** Alojamiento gratuito de sitios web estáticos generados a partir de repositorios Markdown.
 * **Seguridad:** Análisis automático de vulnerabilidades en las dependencias de los proyectos (Dependabot).
 
-<img src="img/github.png" alt="Logo de Github" width="400" height="250"/>
+![GitHub](https://marketing4ecommerce.net/wp-content/uploads/2018/06/GitHub-logo-2-imagen.jpg)
